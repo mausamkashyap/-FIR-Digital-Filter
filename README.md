@@ -34,3 +34,7 @@ In conclusion, this project successfully demonstrated both the theoretical and p
 
 
 Outcome:
+<img width="1916" height="1079" alt="Image" src="https://github.com/user-attachments/assets/cf08de61-e2b2-412a-8c97-cd7847ba8ac6" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/1bc29757-bebc-42fb-bb36-db02ba203f7c" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/18a1c30d-02ee-4d7e-896b-074ede6b0eab" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/25d1dd61-8e88-4008-a9c7-927f57fc1583" />
