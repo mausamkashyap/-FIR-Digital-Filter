@@ -1,5 +1,15 @@
 # -FIR-Digital-Filter
 
+**COMPANY: CODTECH IT SOLUTIONS**
+
+**NAME: MAUSAM KUMARI**
+
+**INTERN ID: CTIS6792**
+
+**DURATION: 8 WEEKS**
+
+**MENTOR: NEELA SANTOSH**
+
 **Design and Simulation of a Digital FIR Filter**
 
 A Digital Finite Impulse Response (FIR) filter is one of the most important components in digital signal processing systems. It is widely used for applications such as noise reduction, signal smoothing, and frequency shaping. In this project, an FIR filter was designed and simulated using MATLAB, and its hardware implementation was carried out using Verilog in Xilinx Vivado.
